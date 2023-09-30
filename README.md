@@ -9,3 +9,4 @@
 9. git checkout -b (nombre)
 10. git checkout master (regresa a la rama master)
 11. git merge
+12. git branch (ves las ramas que tienes)

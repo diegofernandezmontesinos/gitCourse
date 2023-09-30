@@ -10,3 +10,6 @@
 10. git checkout master (regresa a la rama master)
 11. git merge
 12. git branch (ves las ramas que tienes)
+13. git branch -d nombre-rama
+14. git push (envia la rama a remota)
+15. git commit -am

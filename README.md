@@ -14,3 +14,4 @@
 14. git branch -d nombre-rama
 15. git push (envia la rama a remota)
 16. git commit -am
+17. 
